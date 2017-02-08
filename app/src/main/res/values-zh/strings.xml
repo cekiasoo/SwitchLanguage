@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">切换语言</string>
+    <string name="helloworld">你好 世界!</string>
+    <string name="language">中文</string>
+    <string name="secondact">第二屏</string>
+</resources>

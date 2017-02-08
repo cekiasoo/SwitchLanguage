@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/chinese" android:title="@string/chinese" app:showAsAction="never" />
+    <item android:id="@+id/english" android:title="@string/english" app:showAsAction="never" />
+    <item android:id="@+id/russian" android:title="@string/russian" app:showAsAction="never" />
+</menu>

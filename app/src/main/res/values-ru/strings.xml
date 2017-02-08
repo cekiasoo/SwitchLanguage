@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Переключение язык</string>
+    <string name="helloworld">привет мир!</string>
+    <string name="language">русский</string>
+    <string name="secondact">второй активность</string>
+</resources>
